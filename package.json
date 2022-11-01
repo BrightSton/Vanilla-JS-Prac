@@ -1,7 +1,7 @@
 {
   "name": "vanila-js-prac",
   "version": "1.0.0",
-  "description": "",
+  "description": "Reference by Nomad Coders Video",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LeeHuynSuk/Vanilla-JS-Prac/issues"
   },
-  "homepage": "https://github.com/LeeHuynSuk/Vanilla-JS-Prac#readme"
+  "homepage": "https://github.com/LeeHuynSuk/Vanilla-JS-Prac#readme",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
 }

@@ -1,7 +1,9 @@
-# 유목민 코더 강의
+# Nomard Coders Lecture
+<br>
 
-## 바닐라 JS 크롬 앱
+## Vanilla JS chrome App
+<br>
 
 <div align = "center">
-  <img src = "바닐라 JS 크롬앱/js/크롬앱 배경.png"높이 = 500 />
+  <img src = "./%EB%B0%94%EB%8B%90%EB%9D%BC%20JS%20%ED%81%AC%EB%A1%AC%EC%95%B1/%ED%81%AC%EB%A1%AC%EC%95%B1%20%EB%B0%B0%EA%B2%BD.png" height = 500 />
 </div>
